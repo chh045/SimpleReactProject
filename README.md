@@ -4,5 +4,5 @@
 </ul>
 
 <h4>Printed Hello World</h4>
-<img src="./readme_src/d1.png" width = "100">
+<img src="./readme_src/d1.png" width="50%">
 <!-- ![HelloWorld](./readme_src/d1.png =100x100) -->

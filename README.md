@@ -1,5 +1,5 @@
 <h1> Simple React Project </h1>
-<p style="margin-left: 40px;">Goal is to make a simple management app to host projects and todos</p>
+<p>     Goal is to make a simple management app to host projects and todos</p>
 <ul>
   <li>
     <h4>Progress</h4>

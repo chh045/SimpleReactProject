@@ -1,7 +1,5 @@
 <h1> Simple React Project </h1>
-<ul>
-  <li>Goal is to make a simple management app to host projects and todos</li>
-</ul>
+<p style="text-indent: 5em;">Goal is to make a simple management app to host projects and todos</p>
 
 
 <ul>
@@ -19,3 +17,5 @@
 
 
 <!-- ![HelloWorld](./readme_src/d1.png =100x100) -->
+
+

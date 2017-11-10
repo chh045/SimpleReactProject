@@ -1,5 +1,10 @@
+<style>
+  .tab {
+    margin-left: 40px;
+  }
+</style>
 <h1> Simple React Project </h1>
-<p style="text-indent: 5em;">Goal is to make a simple management app to host projects and todos</p>
+<p class="tab">Goal is to make a simple management app to host projects and todos</p>
 
 
 <ul>

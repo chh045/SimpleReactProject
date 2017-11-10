@@ -4,10 +4,10 @@
 
 <ul>
   <li>
-    <h3>Progress</h3>
+    <h4>Progress</h4>
     <ul>
       <li>
-        <h4>Printed Hello World</h4>
+        Printed Hello World
         <img src="./readme_src/d1.png" width="50%">
       </li>
     </ul>

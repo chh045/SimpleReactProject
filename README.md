@@ -7,7 +7,7 @@
     <h4>Progress</h4>
     <ul>
       <li>
-        Printed Hello World
+        <h5>Printed Hello World</h5>
         <img src="./readme_src/d1.png" width="50%">
       </li>
     </ul>

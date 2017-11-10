@@ -8,12 +8,9 @@
   </style>  
 </head>
 
-
 <body>
   <h1> Simple React Project </h1>
   <p class="tab">Goal is to make a simple management app to host projects and todos</p>
-
-
   <ul>
     <li>
       <h4>Progress</h4>

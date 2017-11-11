@@ -5,6 +5,10 @@
     <h4>Progress</h4>
     <ul>
       <li>
+        <h5>Implemented project components, added Pseudo projects</h5>
+        <img src="./readme_src/d2.png">
+      </li>
+      <li>
         <h5>Printed Hello World</h5>
         <img src="./readme_src/d1.png" width="50%">
       </li>

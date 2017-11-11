@@ -5,7 +5,7 @@
     <h4>Progress</h4>
     <ul>
       <li>
-        <h5>Implemented project components, added Pseudo projects</h5>
+        <h5>Implemented project components, added pseudo projects</h5>
         <img src="./readme_src/d2.png" width="50%">
       </li>
       <li>
